@@ -1,0 +1,10 @@
+Licence Java Projects
+Last Update 31.05.2016
+
+CODE LICENCE
+§1.1 Don't copy my code
+§1.2 Please do not say that you first do this code
+§1.3 Don't edit this code
+§1.4 Don't seel this code
+
+Copyright OddiPlugins 2016 ©
